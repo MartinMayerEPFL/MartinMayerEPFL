@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="assets/terminal-intro.svg" alt="Martin Mayer terminal intro" width="900" />
+</p>
+
 # Martin Mayer
 
 **MSc Robotics @ EPFL · Learning-Based Control · Autonomous Systems · Embedded Robotics**
 
-I build robotic systems from algorithms to hardware. My work spans reinforcement learning, control, embedded development, and system integration, with a particular interest in making intelligent robots work reliably in the real world.
+I build robotic systems from algorithms to hardware. My work spans reinforcement learning, control, embedded development, and system integration, with a strong interest in making intelligent robots work reliably in the real world.
 
 [LinkedIn](https://www.linkedin.com/in/martin-mayer-0151b631b/) · [SOLA — Solar UAV](https://www.projetsola.com/) · [GitHub](https://github.com/MartinMayerEPFL)
 
@@ -11,7 +15,7 @@ I build robotic systems from algorithms to hardware. My work spans reinforcement
 ### SOLA — Long-Endurance Solar UAV
 **Project President · Systems Engineering & Aerostructures**
 
-Leading a multidisciplinary student team developing a **3 m-wingspan autonomous solar-powered UAV**. Prototype IV targets **8+ hours of flight** using onboard solar energy. Work spans aircraft design, lightweight composite structures, aerodynamics, energy management, avionics, and system integration.
+Leading a multidisciplinary student team developing a **3 m wingspan autonomous solar-powered UAV**. Prototype IV targets **8+ hours of flight** using onboard solar energy. My work spans aircraft design, lightweight composite structures, aerodynamic trade-offs, energy management, avionics, and overall system integration.
 
 **Focus:** Aerospace systems · Hardware integration · Composite structures · Autonomous flight  
 **Explore:** [Project website](https://www.projetsola.com/)
@@ -19,7 +23,7 @@ Leading a multidisciplinary student team developing a **3 m-wingspan autonomous 
 ### Tensegrity Robotics — Data-Efficient RL on Hardware
 **EPFL Robotics Research Project · In progress**
 
-Developing learning-based control for a pneumatic tensegrity robot, with the goal of learning directly from physical interaction while reducing the need for manual resets. Working on **discrete Soft Actor-Critic in JAX**, a constrained action space of **42 valid combinations across six pistons**, and state estimation using motion capture and inertial sensing. The longer-term goal is command-conditioned locomotion and waypoint following.
+Developing learning-based control for a pneumatic tensegrity robot, with the goal of learning directly from physical interaction while minimizing manual resets. The project combines **discrete Soft Actor-Critic in JAX**, a constrained action space of **42 valid combinations across six pistons**, and state estimation from motion capture and inertial sensing. The broader objective is to obtain a command-conditioned controller capable of joystick control and waypoint following on real hardware.
 
 **Focus:** Reinforcement learning · JAX · Discrete control · State estimation · Real-world robotics  
 **Code:** Research repository not currently public
@@ -27,7 +31,7 @@ Developing learning-based control for a pneumatic tensegrity robot, with the goa
 ### Quadruped Locomotion — Control & Reinforcement Learning
 **EPFL Legged Robotics Projects**
 
-Explored locomotion control in simulation, including **central pattern generators (CPGs)**, reinforcement learning, and gait generation. Also implemented and optimized a quadruped jumping controller using simulation-based experiments.
+Explored locomotion control in simulation, including **central pattern generators (CPGs)**, reinforcement learning, and gait generation. I also implemented and optimized a quadruped jumping controller through simulation-based experiments.
 
 **Focus:** Python · PyBullet · Stable-Baselines3 · Optimization · Locomotion  
 **Explore:** [Locomotion / CPG + RL](https://github.com/MartinMayerEPFL/Legged_Robot_Project2) · [Quadruped jumping](https://github.com/MartinMayerEPFL/LeggedProject1)
@@ -35,7 +39,7 @@ Explored locomotion control in simulation, including **central pattern generator
 ### Haptic Teleoperation — Bilateral Control
 **EPFL Haptic Human-Robot Interfaces Project**
 
-Worked with two haptic interfaces to investigate real-time bilateral control, force feedback, and communication delay. The project combines embedded control firmware with serial communication and PC-side interfaces.
+Worked with two haptic interfaces to investigate real-time bilateral control, force feedback, and communication delay. The project combines embedded control firmware, serial communication, and PC-side interface development.
 
 **Focus:** Embedded C · C++/Qt · MATLAB · Control · UART  
 **Explore:** [Haptic Teleoperation repository](https://github.com/MartinMayerEPFL/Haptic_Teleoperation)
