@@ -29,11 +29,7 @@ Leading a multidisciplinary student team developing a **3 m wingspan autonomous 
 
 <img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="240" hspace="10" />
 
-Developing learning-based control for a pneumatic tensegrity robot,<br>
-with the goal of learning directly on hardware while reducing resets.<br>
-The project combines **discrete Soft Actor-Critic in JAX** with state<br>
-estimation using motion capture and IMUs. The objective is to enable<br>
-joystick control and waypoint following on real hardware.
+Developing learning-based control for a pneumatic tensegrity robot, aiming to learn directly on hardware while reducing resets. The project combines **discrete Soft Actor-Critic in JAX** with state estimation using motion capture and IMUs. The objective is to enable joystick control and waypoint following on real hardware.
 
 **Focus:** Reinforcement learning · JAX · Discrete control · State estimation
 
