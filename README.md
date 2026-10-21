@@ -15,19 +15,19 @@ I build robotic systems from algorithms to hardware. My work spans reinforcement
 ### SOLA — Long-Endurance Solar UAV
 **Project President · Systems Engineering & Aerostructures**
 
-<img src="assets/SOLA_Moulinsart.png" alt="SOLA solar-powered UAV in flight" align="right" width="240" hspace="10" />
+<table style="border: none; border-collapse: collapse;"><tr><td width="68%" valign="top" style="border: none; padding: 0 16px 0 0;">
 
 Leading a multidisciplinary student team developing a **3 m wingspan autonomous solar-powered UAV**. Prototype IV targets **8+ hours of flight** using onboard solar energy. My work spans aircraft design, lightweight composite structures, aerodynamic trade-offs, energy management, avionics, and overall system integration.
 
 **Focus:** Aerospace systems · Hardware integration · Composite structures · Autonomous flight  
 **Explore:** [Project website](https://www.projetsola.com/)
 
-<br clear="right" />
+</td><td width="32%" valign="top" align="right" style="border: none; padding: 0;"><img src="assets/SOLA_Moulinsart.png" alt="SOLA solar-powered UAV in flight" width="240" /></td></tr></table>
 
 ### Tensegrity Robotics — Data-Efficient RL on Hardware
 **EPFL Robotics Research Project · In progress**
 
-<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="240" hspace="10" />
+<table style="border: none; border-collapse: collapse;"><tr><td width="68%" valign="top" style="border: none; padding: 0 16px 0 0;">
 
 Developing learning-based control for a pneumatic tensegrity robot, aiming to learn directly on hardware while reducing manual resets. The project combines **discrete Soft Actor-Critic in JAX** with state estimation using motion capture and IMUs. The goal is joystick control and waypoint following on real hardware.
 
@@ -35,7 +35,7 @@ Developing learning-based control for a pneumatic tensegrity robot, aiming to le
 
 **Code:** Research repository not currently public
 
-<br clear="right" />
+</td><td width="32%" valign="top" align="right" style="border: none; padding: 0;"><img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" width="240" /></td></tr></table>
 
 ### Quadruped Locomotion — Control & Reinforcement Learning
 **EPFL Legged Robotics Projects**
@@ -48,7 +48,7 @@ Explored locomotion control in simulation, including **central pattern generator
 ### Haptic Teleoperation — Bilateral Control
 **EPFL Haptic Human-Robot Interfaces Project**
 
-<img src="assets/haptic_paddles_github.gif" alt="Haptic paddles bilateral teleoperation demonstration" align="right" width="240" hspace="10" />
+<table style="border: none; border-collapse: collapse;"><tr><td width="68%" valign="top" style="border: none; padding: 0 16px 0 0;">
 
 Worked with two haptic interfaces to investigate real-time bilateral control, force feedback, and communication delay. The project combines embedded control firmware, serial communication, and PC-side interface development.
 
@@ -56,7 +56,7 @@ Worked with two haptic interfaces to investigate real-time bilateral control, fo
 
 **Explore:** [Haptic Teleoperation repository](https://github.com/MartinMayerEPFL/Haptic_Teleoperation)
 
-<br clear="right" />
+</td><td width="32%" valign="top" align="right" style="border: none; padding: 0;"><img src="assets/haptic_paddles_github.gif" alt="Haptic paddles bilateral teleoperation demonstration" width="240" /></td></tr></table>
 
 ## Technical interests & tools
 
