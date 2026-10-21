@@ -15,7 +15,7 @@ I build robotic systems from algorithms to hardware. My work spans reinforcement
 ### SOLA — Long-Endurance Solar UAV
 **Project President · Systems Engineering & Aerostructures**
 
-<img src="assets/SOLA_Moulinsart.png" alt="SOLA solar-powered UAV in flight" align="right" width="300" hspace="16" />
+<img src="assets/SOLA_Moulinsart.png" alt="SOLA solar-powered UAV in flight" align="right" width="240" hspace="16" />
 
 Leading a multidisciplinary student team developing a **3 m wingspan autonomous solar-powered UAV**. Prototype IV targets **8+ hours of flight** using onboard solar energy. My work spans aircraft design, lightweight composite structures, aerodynamic trade-offs, energy management, avionics, and overall system integration.
 
@@ -27,7 +27,7 @@ Leading a multidisciplinary student team developing a **3 m wingspan autonomous 
 ### Tensegrity Robotics — Data-Efficient RL on Hardware
 **EPFL Robotics Research Project · In progress**
 
-<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="280" hspace="16" />
+<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="240" hspace="16" />
 
 Developing learning-based control for a pneumatic tensegrity robot, with the goal of learning directly from physical interaction while minimizing manual resets. The project combines **discrete Soft Actor-Critic in JAX** and state estimation from motion capture and inertial sensing. The broader objective is to obtain a command-conditioned controller capable of joystick control and waypoint following on real hardware.
 
