@@ -23,24 +23,15 @@ Leading a multidisciplinary student team developing a **3 m wingspan autonomous 
 ### Tensegrity Robotics — Data-Efficient RL on Hardware
 **EPFL Robotics Research Project · In progress**
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="280" />
 
-Developing learning-based control for a pneumatic tensegrity robot, with the goal of learning directly from physical interaction while minimizing manual resets. The project combines **discrete Soft Actor-Critic in JAX**, a constrained action space of **42 valid combinations across six pistons**, and state estimation from motion capture and inertial sensing. The broader objective is to obtain a command-conditioned controller capable of joystick control and waypoint following on real hardware.
+Developing learning-based control for a pneumatic tensegrity robot, with the goal of learning directly from physical interaction while minimizing manual resets. The project combines **discrete Soft Actor-Critic in JAX** and state estimation from motion capture and inertial sensing. The broader objective is to obtain a command-conditioned controller capable of joystick control and waypoint following on real hardware.
 
 **Focus:** Reinforcement learning · JAX · Discrete control · State estimation · Real-world robotics
 
 **Code:** Research repository not currently public
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" width="300" />
-
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 ### Quadruped Locomotion — Control & Reinforcement Learning
 **EPFL Legged Robotics Projects**
