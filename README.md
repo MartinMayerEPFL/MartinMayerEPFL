@@ -15,7 +15,7 @@ I build robotic systems from algorithms to hardware. My work spans reinforcement
 ### SOLA — Long-Endurance Solar UAV
 **Project President · Systems Engineering & Aerostructures**
 
-<img src="assets/SOLA_Moulinsart.png" alt="SOLA solar-powered UAV in flight" align="right" width="240" hspace="16" />
+<img src="assets/SOLA_Moulinsart.png" alt="SOLA solar-powered UAV in flight" align="right" width="240" hspace="10" />
 
 Leading a multidisciplinary student team developing a **3 m wingspan autonomous solar-powered UAV**. Prototype IV targets **8+ hours of flight** using onboard solar energy. My work spans aircraft design, lightweight composite structures, aerodynamic trade-offs, energy management, avionics, and overall system integration.
 
