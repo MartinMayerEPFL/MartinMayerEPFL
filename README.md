@@ -27,9 +27,13 @@ Leading a multidisciplinary student team developing a **3 m wingspan autonomous 
 ### Tensegrity Robotics — Data-Efficient RL on Hardware
 **EPFL Robotics Research Project · In progress**
 
-<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="240" hspace="10" />
+<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="220" hspace="12" />
 
-Developing learning-based control for a pneumatic tensegrity robot, aiming to learn directly on hardware while reducing resets. The project combines **discrete Soft Actor-Critic in JAX** with state estimation using motion capture and IMUs. The objective is to enable joystick control and waypoint following on real hardware.
+Developing learning-based control for a pneumatic tensegrity robot,  
+aiming to learn directly on hardware while reducing manual resets.  
+The project combines **discrete Soft Actor-Critic in JAX** with state  
+estimation using motion capture and IMUs. The goal is joystick  
+control and waypoint following on real hardware.
 
 **Focus:** Reinforcement learning · JAX · Discrete control · State estimation
 
@@ -48,10 +52,18 @@ Explored locomotion control in simulation, including **central pattern generator
 ### Haptic Teleoperation — Bilateral Control
 **EPFL Haptic Human-Robot Interfaces Project**
 
-Worked with two haptic interfaces to investigate real-time bilateral control, force feedback, and communication delay. The project combines embedded control firmware, serial communication, and PC-side interface development.
+<img src="assets/haptic_paddles_github.gif" alt="Haptic paddles bilateral teleoperation demonstration" align="right" width="220" hspace="12" />
 
-**Focus:** Embedded C · C++/Qt · MATLAB · Control · UART  
+Worked with two haptic interfaces to investigate real-time bilateral  
+control, force feedback, and communication delay. The project combines  
+embedded control firmware, serial communication, and PC-side interface  
+development.
+
+**Focus:** Embedded C · C++/Qt · MATLAB · Control · UART
+
 **Explore:** [Haptic Teleoperation repository](https://github.com/MartinMayerEPFL/Haptic_Teleoperation)
+
+<br clear="right" />
 
 ## Technical interests & tools
 
