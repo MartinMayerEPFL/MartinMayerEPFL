@@ -27,7 +27,7 @@ Leading a multidisciplinary student team developing a **3 m wingspan autonomous 
 ### Tensegrity Robotics — Data-Efficient RL on Hardware
 **EPFL Robotics Research Project · In progress**
 
-<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="240" hspace="16" />
+<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="235" hspace="16" />
 
 Developing learning-based control for a pneumatic tensegrity  robot, aiming to learn directly 
 from hardware while reducing manual resets. The project combines **discrete Soft Actor-Critic** 
