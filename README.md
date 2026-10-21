@@ -27,13 +27,9 @@ Leading a multidisciplinary student team developing a **3 m wingspan autonomous 
 ### Tensegrity Robotics — Data-Efficient RL on Hardware
 **EPFL Robotics Research Project · In progress**
 
-<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="220" hspace="12" />
+<img src="assets/tensegrity_rollout.gif" alt="Tensegrity robot locomotion in simulation" align="right" width="240" hspace="10" />
 
-Developing learning-based control for a pneumatic tensegrity robot,  
-aiming to learn directly on hardware while reducing manual resets.  
-The project combines **discrete Soft Actor-Critic in JAX** with state  
-estimation using motion capture and IMUs. The goal is joystick  
-control and waypoint following on real hardware.
+Developing learning-based control for a pneumatic tensegrity robot, aiming to learn directly on hardware while reducing manual resets. The project combines **discrete Soft Actor-Critic in JAX** with state estimation using motion capture and IMUs. The goal is joystick control and waypoint following on real hardware.
 
 **Focus:** Reinforcement learning · JAX · Discrete control · State estimation
 
@@ -52,12 +48,9 @@ Explored locomotion control in simulation, including **central pattern generator
 ### Haptic Teleoperation — Bilateral Control
 **EPFL Haptic Human-Robot Interfaces Project**
 
-<img src="assets/haptic_paddles_github.gif" alt="Haptic paddles bilateral teleoperation demonstration" align="right" width="220" hspace="12" />
+<img src="assets/haptic_paddles_github.gif" alt="Haptic paddles bilateral teleoperation demonstration" align="right" width="240" hspace="10" />
 
-Worked with two haptic interfaces to investigate real-time bilateral  
-control, force feedback, and communication delay. The project combines  
-embedded control firmware, serial communication, and PC-side interface  
-development.
+Worked with two haptic interfaces to investigate real-time bilateral control, force feedback, and communication delay. The project combines embedded control firmware, serial communication, and PC-side interface development.
 
 **Focus:** Embedded C · C++/Qt · MATLAB · Control · UART
 
